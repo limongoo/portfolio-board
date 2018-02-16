@@ -1,11 +1,11 @@
 # Portfolio-Board
 
-## Ivan Limongan | [/limongoo](https://github.com/limongoo)
+## Ivan Limongan | [@limongoo](https://github.com/limongoo)
 Front-End Developer and UX/UI Designer
 
 ## Projects:
 
-###The ArtPost
+### The ArtPost
 App: https://the-artpost.firebaseapp.com/
 Code: https://github.com/The-Art-Team/The-Artpost
 Role: Front-End Developer, Art Director & Team Lead
