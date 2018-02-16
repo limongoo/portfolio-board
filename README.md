@@ -20,5 +20,7 @@ App: https://refresh-landingpage.herokuapp.com/
 
 Code: https://github.com/limongoo/LandingPage
 
+Role: Front-End Developer & Team Lead
+
 Technologies Used: Javascript, JQuery, HTML5, CSS3, Node JS, Handlebars JS, PostgreSQL, REST API, Unsplash API to pull background photos, Google Fonts Api, Terminal, GitHub, Heroku
 
