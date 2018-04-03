@@ -1,7 +1,7 @@
 ## Ivan Limongan | [@limongoo](https://github.com/limongoo)
 > Front-End Developer and UX/UI Designer | www.ivanlimongan.com
 
-## Collection of Apps and Projects:
+## Collection of Development and UX/UI work:
 
 ### The ArtPost App
 App: https://the-artpost.firebaseapp.com/
